@@ -27,6 +27,7 @@ elif what == "-":
 else:
 	print("Выбрана неверная операция!")
 
-print("подпишись на vk.com/aitsme, крутой чувак(создаьель)")
+print("Подпишись на vk.com/aitsme, крутой чувак(создатель)")
+print("Исходный код: https://github.com/ArynYT/Aryn/blob/master/prog.py")
 
 input()
